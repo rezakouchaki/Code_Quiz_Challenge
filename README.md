@@ -165,7 +165,9 @@ One CSS Page
     Contains media queries
     
 Two Javascript Page * Contains: * Variables, including arrays with object * Event listeners * if/else if statements * For Loops * Functions * Local Storage set and get
-
+ 
+ 
+ Reza Kouchaki
 
 
 
