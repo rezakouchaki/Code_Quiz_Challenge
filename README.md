@@ -8,7 +8,7 @@ determine whether the answers to a question are correct, this then generates a s
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a
 template.
 
-GitHub Link: 
+GitHub Link: https://github.com/rezakouchaki/Code_Quiz_Challenge
 
 Website Link:
 
