@@ -10,7 +10,7 @@ template.
 
 GitHub Link: https://github.com/rezakouchaki/Code_Quiz_Challenge
 
-Website Link:
+Website Link: https://rezakouchaki.github.io/Code_Quiz_Challenge/
 
 **Prerequisites**
 
